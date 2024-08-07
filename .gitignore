@@ -1,0 +1,18 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore files related to API keys
+/config/.env
+
+# Ignore files related to the Alembic database migrations
+/alembic/
+alembic.ini
+
+# Ignore session files
+*.session
+
+# Ignore Python cache files
+__pycache__
+
+# Ignore vscode settings
+.vscode/

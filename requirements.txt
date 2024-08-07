@@ -1,0 +1,7 @@
+python-telegram-bot
+openai
+sqlalchemy
+alembic
+requests
+configparser
+python-dotenv
